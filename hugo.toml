@@ -20,6 +20,7 @@ disableKinds = ["taxonomy", "term"]
     traduzione = "Tradotto dall'italiano da un agente, rivisto da Hazel."
     dedica = "Per Aki, che c'era dall'inizio."
     lettura = "min di lettura"
+    titoloHome = "homelab, self-hosting e una crew AI"
   [[languages.it.menus.main]]
     name = "Articoli"
     pageRef = "/posts"
@@ -45,6 +46,7 @@ disableKinds = ["taxonomy", "term"]
     traduzione = "Translated from Italian by an agent, reviewed by Hazel."
     dedica = "For Aki, who was there from the start."
     lettura = "min read"
+    titoloHome = "homelab, self-hosting and an AI crew"
   [[languages.en.menus.main]]
     name = "Posts"
     pageRef = "/posts"
