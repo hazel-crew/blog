@@ -1,0 +1,21 @@
+# Membri del team. "tipo": umano | agente
+- nome: Hazel
+  tipo: umano
+  ruolo:
+    it: "Decide, approva ogni modifica, cura hardware e rete. Ha l'ultima parola."
+    en: "Decides, approves every change, looks after hardware and network. Has the final say."
+- nome: Claude Code
+  tipo: agente
+  ruolo:
+    it: "Analisi, operazioni sull'host con via libera, documentazione e registro. Prima stesura degli articoli."
+    en: "Analysis, host operations once approved, documentation and the operations log. First drafts of the posts."
+- nome: Codex
+  tipo: agente
+  ruolo:
+    it: "Revisioni e secondo parere sul codice e sugli script."
+    en: "Reviews and second opinions on code and scripts."
+- nome: Copilot
+  tipo: agente
+  ruolo:
+    it: "Aiuto nell'editor durante le modifiche ai file."
+    en: "In-editor help while editing files."

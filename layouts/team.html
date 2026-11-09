@@ -1,0 +1,13 @@
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+  {{ partial "firma.html" . }}
+  {{ .Content }}
+  <ul class="team">
+    {{ $lang := .Language.Lang }}
+    {{ range hugo.Data.team }}
+    <li class="{{ .tipo }}"><strong>{{ .nome }}</strong> <span class="tipo">{{ if eq .tipo "umano" }}{{ if eq $lang "it" }}umano{{ else }}human{{ end }}{{ else }}{{ if eq $lang "it" }}agente AI{{ else }}AI agent{{ end }}{{ end }}</span><br>{{ index .ruolo $lang }}</li>
+    {{ end }}
+  </ul>
+</article>
+{{ end }}

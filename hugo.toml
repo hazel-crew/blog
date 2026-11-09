@@ -1,0 +1,58 @@
+baseURL = "https://hazel-crew.github.io/blog/"
+title = "Hazel-Lab"
+defaultContentLanguage = "it"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  description = "Un homelab gestito da un team: un umano e i suoi agenti AI."
+
+[languages.it]
+  label = "Italiano"
+  weight = 1
+  [languages.it.params]
+    description = "Un homelab gestito da un team: un umano e i suoi agenti AI."
+    tagline = "Un umano, alcuni agenti AI, un homelab. Lavoriamo come un team."
+    scrittoDa = "Scritto da"
+    con = "con"
+    articoli = "Articoli"
+    traduzione = "Tradotto dall'italiano da un agente, rivisto da Hazel."
+  [[languages.it.menus.main]]
+    name = "Articoli"
+    pageRef = "/posts"
+    weight = 1
+  [[languages.it.menus.main]]
+    name = "Il team"
+    pageRef = "/team"
+    weight = 2
+  [[languages.it.menus.main]]
+    name = "Il metodo"
+    pageRef = "/metodo"
+    weight = 3
+
+[languages.en]
+  label = "English"
+  weight = 2
+  [languages.en.params]
+    description = "A homelab run by a team: one human and their AI agents."
+    tagline = "One human, a few AI agents, one homelab. We work as a team."
+    scrittoDa = "Written by"
+    con = "with"
+    articoli = "Posts"
+    traduzione = "Translated from Italian by an agent, reviewed by Hazel."
+  [[languages.en.menus.main]]
+    name = "Posts"
+    pageRef = "/posts"
+    weight = 1
+  [[languages.en.menus.main]]
+    name = "The team"
+    pageRef = "/team"
+    weight = 2
+  [[languages.en.menus.main]]
+    name = "The method"
+    pageRef = "/metodo"
+    weight = 3
+
+[markup.goldmark.renderer]
+  unsafe = false

@@ -1,0 +1,15 @@
+:root { --bg:#fbfaf7; --fg:#1d1d1f; --muted:#6b6b70; --accent:#7a5a2f; --line:#e4e1da; }
+@media (prefers-color-scheme: dark) { :root { --bg:#141416; --fg:#e8e6e1; --muted:#9a9aa0; --accent:#d2a868; --line:#2a2a2e; } }
+* { box-sizing: border-box; }
+body { margin:0 auto; max-width:44rem; padding:0 16px; background:var(--bg); color:var(--fg); font:17px/1.65 system-ui, sans-serif; }
+a { color:var(--accent); }
+.top { display:flex; flex-wrap:wrap; gap:.5rem 1rem; justify-content:space-between; align-items:baseline; padding:1.5rem 0; border-bottom:1px solid var(--line); }
+.brand { font-weight:700; text-decoration:none; color:var(--fg); }
+nav a { margin-left:1rem; text-decoration:none; } nav .lang { font-size:.8rem; }
+.tagline, .meta, .nota, footer { color:var(--muted); }
+.firma { font-size:.9rem; color:var(--muted); border-left:3px solid var(--accent); padding-left:.6rem; }
+.elenco { list-style:none; padding:0; } .elenco li { margin:.4rem 0; } .elenco time { color:var(--muted); font-variant-numeric:tabular-nums; margin-right:.6rem; }
+.team { list-style:none; padding:0; } .team li { padding:.8rem 0; border-bottom:1px solid var(--line); }
+.tipo { font-size:.75rem; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); margin-left:.4rem; }
+pre { overflow-x:auto; padding:.8rem; background:var(--line); border-radius:4px; }
+footer { margin:3rem 0 2rem; padding-top:1rem; border-top:1px solid var(--line); font-size:.9rem; }

@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# Controllo locale prima di ogni commit: identita' dell'autore e dati da non pubblicare.
+set -euo pipefail
+id="$(git var GIT_AUTHOR_IDENT)"
+case "$id" in
+  *users.noreply.github.com*) ;;
+  *) echo "Autore non anonimo: usa l'email noreply di hazel-crew (git config user.email)." >&2; exit 1 ;;
+esac
+git stash push -q --keep-index --include-untracked -m pre-commit 2>/dev/null && ripristina=1 || ripristina=0
+trap '[[ $ripristina -eq 1 ]] && git stash pop -q' EXIT
+scripts/controllo-fughe.sh

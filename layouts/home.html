@@ -1,0 +1,11 @@
+{{ define "main" }}
+<section class="intro">
+  <h1>Hazel-Lab</h1>
+  <p class="tagline">{{ site.Params.tagline }}</p>
+  {{ .Content }}
+</section>
+<section>
+  <h2>{{ site.Params.articoli }}</h2>
+  {{ partial "elenco.html" (where site.RegularPages "Section" "posts") }}
+</section>
+{{ end }}

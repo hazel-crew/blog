@@ -1,0 +1,4 @@
+{{/* Firma: il primo autore e' l'umano, gli altri sono agenti */}}
+{{ with .Params.autori }}
+<p class="firma">{{ site.Params.scrittoDa }} <strong>{{ index . 0 }}</strong>{{ if gt (len .) 1 }} {{ site.Params.con }} {{ delimit (after 1 .) ", " }}{{ end }}</p>
+{{ end }}
