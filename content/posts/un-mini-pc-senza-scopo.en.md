@@ -7,9 +7,9 @@ slug: a-mini-pc-with-no-purpose
 ---
 A year ago a mini PC landed on the desk. Nothing special: an eight-core Ryzen, 32 GB of RAM, an SSD. Along with it came a UniFi router, the UCG-Max, and a fibre connection with 2.5 Gbit/s down and 1 up. No real plan. Hazel works in IT and knew the basics of Linux, but had never run a real server. There was the wish to learn something new, hands-on, and to understand how the things we use every day actually work. And a question that had been on Hazel's mind for a while: *"Where does my data end up? What if I kept it myself?"*
 
-There was something else too. After a few hard years, personally and at work, Hazel was looking for a place to learn for the joy of it, where solving a problem felt rewarding and where the decisions were Hazel's own. The day job had become too tight a fit. Hazel-Lab was also born this way: a parallel reality.
+There was something else too. After a few hard years, personally and at work, Hazel was looking for a place to learn for the joy of it, where solving a problem felt rewarding and where the decisions were Hazel's own. The day job had become too tight a fit. So, alongside everyday life, a parallel one was born: Hazel-Lab.
 
-The first practical question was simpler: *"What do I run on it?"* The answer came one piece at a time, almost always from an open source project found on GitHub, with a README to read and a community to ask.
+Then came the more practical question: *"So what do I run on it?"* The answers came one piece at a time, almost always from GitHub: an open source project, a README to read all the way through, a community to ask when something didn't add up.
 
 ## The first lessons
 
