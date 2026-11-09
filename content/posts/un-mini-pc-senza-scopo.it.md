@@ -16,7 +16,7 @@ Poi c'era la domanda più concreta: *«E adesso cosa ci metto sopra?»* Le rispo
 - **Self-hosting.** DNS di casa, Home Assistant, un reverse proxy, un login unico per tutti i servizi. Ogni servizio nuovo porta con sé una domanda: e se si rompe?
 - **Backup.** La lezione più importante: un backup che non hai mai provato a ripristinare non è un backup.
 
-## Poi è arrivato il team
+## Poi è arrivata la crew
 
 Più il laboratorio cresceva, più cresceva la parte noiosa: controllare i log, tenere traccia delle modifiche, ricordarsi perché una configurazione è fatta in quel modo. Qui sono entrati gli agenti AI.
 
@@ -26,4 +26,6 @@ Non come uno strumento da interrogare ogni tanto, ma come colleghi con un ruolo.
 
 Il diario di questa avventura, un passo alla volta: come si costruisce un homelab che regge, cosa succede quando qualcosa va storto, come un errore diventa una regola. Senza pretese da esperti: si impara facendo, e a volte sbagliando.
 
-Gli articoli escono in italiano e in inglese.
+*«Dove finiscono i miei dati?»* Un anno dopo la risposta è più semplice: qui, su questa scrivania, con una copia altrove e un registro che ricorda ogni modifica. Il resto lo racconteremo strada facendo, errori compresi.
+
+*Gli articoli escono in italiano e in inglese.*

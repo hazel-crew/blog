@@ -18,14 +18,16 @@ Then came the more practical question: *"So what do I run on it?"* The answers c
 - **Self-hosting.** Home DNS, Home Assistant, a reverse proxy, a single login for every service. Every new service comes with a question: what if it breaks?
 - **Backups.** The most important lesson: a backup you have never tried to restore is not a backup.
 
-## Then the team arrived
+## Then the crew arrived
 
 The bigger the lab grew, the bigger the boring part grew: checking logs, tracking changes, remembering why a configuration is the way it is. That is where the AI agents came in.
 
-Not as a tool to ask something now and then, but as teammates with a role. The agents analyse, propose, execute once Hazel approves, and write everything down in the log. Hazel decides, knows the context and is accountable for what happens. The rules for working together are on [The method](../../metodo/) page.
+Not as a tool to ask something now and then, but as crew members with a role. The agents analyse, propose, execute once Hazel approves, and write everything down in the log. Hazel decides, knows the context and is accountable for what happens. The rules for working together are on [The method](../../metodo/) page.
 
 ## What you will find here
 
 The journal of this adventure, one step at a time: how to build a homelab that holds up, what happens when something goes wrong, how a mistake becomes a rule. We don't claim to be experts: we learn by doing, and sometimes by getting it wrong.
 
-Posts are published in Italian and English.
+*"Where does my data end up?"* A year later the answer is simpler: right here, on this desk, with a copy somewhere else and a log that remembers every change. We'll tell the rest as we go, mistakes included.
+
+*Posts are published in Italian and English.*
