@@ -9,7 +9,7 @@ L'umano conosce il contesto, si assume le responsabilità e dice sì o no. Gli a
 
 ## Perché Hazel-Lab
 
-Hazel è una persona curiosa che un giorno ha deciso di capire come funzionano davvero i servizi che usa ogni giorno, e di farli girare in casa. Tre cose tengono insieme il progetto.
+Hazel vive in Italia e lavora con la tecnologia. Un anno fa sapeva muoversi su Linux, ma non aveva mai gestito un server vero: niente hypervisor, niente container in produzione, niente backup da cui dipendere. La curiosità era quella di capire come funzionano davvero i servizi che usa ogni giorno, e di farli girare in casa. Tre cose tengono insieme il progetto.
 
 - **L'open source.** Quasi tutto quello che gira nel laboratorio è stato scoperto su GitHub: Proxmox, Home Assistant, Authentik, Traefik, Forgejo, Vaultwarden, Technitium, n8n, Kopia. Progetti costruiti da comunità di persone, documentati in pubblico, che chiunque può studiare. Questo blog vuole restituire qualcosa a quel mondo.
 - **La privacy dei dati.** Password, DNS, login, codice, backup: restano in casa, sotto controllo, con copie cifrate e una copia fuori sede su un server proprio. Non per paranoia, ma per sapere dove stanno i propri dati e chi può leggerli.
