@@ -13,7 +13,7 @@ disableKinds = ["taxonomy", "term"]
   weight = 1
   [languages.it.params]
     description = "Un homelab gestito da un team: un umano e i suoi agenti AI."
-    tagline = "Un mini PC, un umano curioso, alcuni agenti AI. Un anno di self-hosting raccontato da un team."
+    tagline = "Un mini PC, una crew, un anno di self-hosting."
     scrittoDa = "Scritto da"
     con = "con"
     articoli = "Articoli"
@@ -37,7 +37,7 @@ disableKinds = ["taxonomy", "term"]
   weight = 2
   [languages.en.params]
     description = "A homelab run by a team: one human and their AI agents."
-    tagline = "One mini PC, one curious human, a few AI agents. A year of self-hosting told by a team."
+    tagline = "One mini PC, one crew, one year of self-hosting."
     scrittoDa = "Written by"
     con = "with"
     articoli = "Posts"
