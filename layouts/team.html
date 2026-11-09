@@ -6,7 +6,7 @@
   <ul class="team">
     {{ $lang := .Language.Lang }}
     {{ range hugo.Data.team }}
-    <li class="{{ .tipo }}">{{ if eq .tipo "memoria" }}<span class="lupo" aria-hidden="true">{{ readFile "static/img/logo.svg" | safeHTML }}</span>{{ end }}<strong>{{ .nome }}</strong> <span class="tipo">{{ if eq .tipo "umano" }}{{ if eq $lang "it" }}umano{{ else }}human{{ end }}{{ else if eq .tipo "memoria" }}{{ if eq $lang "it" }}membro fondatore · in memoria{{ else }}founding member · in memory{{ end }}{{ else }}{{ if eq $lang "it" }}agente AI{{ else }}AI agent{{ end }}{{ end }}</span><br>{{ index .ruolo $lang }}</li>
+    <li class="{{ .tipo }}">{{ if eq .tipo "memoria" }}<span class="lupo" aria-hidden="true">{{ readFile "static/img/aki.svg" | safeHTML }}</span>{{ end }}<strong>{{ .nome }}</strong> <span class="tipo">{{ if eq .tipo "umano" }}{{ if eq $lang "it" }}umano{{ else }}human{{ end }}{{ else if eq .tipo "memoria" }}{{ if eq $lang "it" }}membro fondatore · in memoria{{ else }}founding member · in memory{{ end }}{{ else }}{{ if eq $lang "it" }}agente AI{{ else }}AI agent{{ end }}{{ end }}</span><br>{{ index .ruolo $lang }}</li>
     {{ end }}
   </ul>
 </article>
