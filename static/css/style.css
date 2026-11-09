@@ -14,7 +14,8 @@ nav a { margin-left:1rem; text-decoration:none; } nav .lang { font-size:.8rem; }
 pre { overflow-x:auto; padding:.8rem; background:var(--line); border-radius:4px; }
 footer { margin:3rem 0 2rem; padding-top:1rem; border-top:1px solid var(--line); font-size:.9rem; }
 .brand { display:inline-flex; align-items:center; gap:.5rem; }
-.logo svg { width:1.9rem; height:1.9rem; color:var(--accent); display:block; }
+.logo svg { width:2.6rem; height:2.6rem; color:var(--accent); display:block; }
 .team .memoria { border-left:3px solid var(--accent); padding-left:.8rem; }
 .lupo svg { width:1.3rem; height:1.3rem; color:var(--accent); vertical-align:-.2rem; margin-right:.4rem; }
 .dedica { font-style:italic; }
+.emblema svg { width:9rem; height:9rem; color:var(--accent); display:block; margin:2rem 0 0; }
