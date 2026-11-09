@@ -18,7 +18,7 @@ disableKinds = ["taxonomy", "term"]
     con = "con"
     articoli = "Articoli"
     traduzione = "Tradotto dall'italiano da un agente, rivisto da Hazel."
-    dedica = "Per Aki, che c'era dall'inizio. Il muso nel logo è il suo."
+    dedica = "Per Aki, che c'era dall'inizio. Il profilo nel logo è il suo."
   [[languages.it.menus.main]]
     name = "Articoli"
     pageRef = "/posts"
@@ -42,7 +42,7 @@ disableKinds = ["taxonomy", "term"]
     con = "with"
     articoli = "Posts"
     traduzione = "Translated from Italian by an agent, reviewed by Hazel."
-    dedica = "For Aki, who was there from the start. The face in the logo is hers."
+    dedica = "For Aki, who was there from the start. The profile in the logo is hers."
   [[languages.en.menus.main]]
     name = "Posts"
     pageRef = "/posts"
