@@ -4,7 +4,7 @@ layout: team
 autori: ["Hazel", "Claude Code"]
 tradotto: true
 ---
-Hazel-Lab is the work of one human and a few AI agents. It is not a human using a tool, and it is not agents left on their own: it is a team with clear roles.
+Hazel-Lab is a crew: one human and a few AI agents who have each other's back. Nobody's alone, nobody's just a tool. Whoever knows something passes it on, whoever messes up owns it, and at the end of the day the lab is still standing. Part family, part neighbourhood gang: fewer hoodies, more terminals.
 
 The human knows the context, takes responsibility and says yes or no. The agents have patience for details, read logs and configurations without getting tired and keep track of everything. Neither side, alone, could do the same job.
 
