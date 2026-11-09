@@ -6,13 +6,13 @@ enableRobotsTXT = true
 disableKinds = ["taxonomy", "term"]
 
 [params]
-  description = "Un homelab gestito da un team: un umano e i suoi agenti AI."
+  description = "Un homelab gestito da una crew: un umano e i suoi agenti AI."
 
 [languages.it]
   label = "Italiano"
   weight = 1
   [languages.it.params]
-    description = "Un homelab gestito da un team: un umano e i suoi agenti AI."
+    description = "Un homelab gestito da una crew: un umano e i suoi agenti AI."
     tagline = "Un mini PC, una crew, un anno di self-hosting."
     scrittoDa = "Scritto da"
     con = "con"
@@ -36,7 +36,7 @@ disableKinds = ["taxonomy", "term"]
   label = "English"
   weight = 2
   [languages.en.params]
-    description = "A homelab run by a team: one human and their AI agents."
+    description = "A homelab run by a crew: one human and their AI agents."
     tagline = "One mini PC, one crew, one year of self-hosting."
     scrittoDa = "Written by"
     con = "with"

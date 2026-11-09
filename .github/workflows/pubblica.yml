@@ -44,7 +44,7 @@ jobs:
       - id: pages
         uses: actions/configure-pages@v5
       - name: Genera il sito
-        run: hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+        run: hugo --gc --minify
       - name: Controllo anti-fuga (sito generato)
         run: scripts/controllo-fughe.sh public
       - uses: actions/upload-pages-artifact@v3

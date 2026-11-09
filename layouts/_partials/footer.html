@@ -1,4 +1,5 @@
 <footer>
   <p>{{ site.Params.tagline }}</p>
+  <p>{{ with site.Home.OutputFormats.Get "rss" }}<a href="{{ .RelPermalink }}">RSS</a>{{ end }}</p>
   <p class="dedica">{{ site.Params.dedica }}</p>
 </footer>
