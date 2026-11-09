@@ -11,7 +11,7 @@ L'umano conosce il contesto, si assume le responsabilità e dice sì o no. Gli a
 
 Hazel vive in Italia e lavora con la tecnologia. Un anno fa sapeva muoversi su Linux, ma non aveva mai gestito un server vero: niente hypervisor, niente container in produzione, niente backup da cui dipendere. La curiosità era quella di capire come funzionano davvero i servizi che usa ogni giorno, e di farli girare in casa.
 
-Hazel-Lab è anche una realtà parallela: dopo anni difficili, sul piano personale e del lavoro, e un mondo lavorativo povero di soddisfazioni che va stretto, è il posto dove Hazel impara, sceglie e vede i risultati di quello che fa.
+Hazel-Lab è anche una realtà parallela, nata dopo anni difficili: da una parte un lavoro povero di soddisfazioni che va stretto, dall'altra un laboratorio dove Hazel impara, sceglie e vede i risultati di quello che fa.
 
 Per intenderci, un tipo un po' alla Elliot di *Mr. Robot*: abbastanza solitario, più a suo agio davanti a un terminale che in mezzo alla folla, e con qualche difficoltà ad accettare il mondo così com'è. Forse non è un caso che il suo team sia fatto soprattutto di agenti. A casa ci sono una compagna e un cane: il resto della squadra, quello che non scrive codice ma ricorda che fuori dal laboratorio c'è una vita. Tre cose tengono insieme il progetto.
 
