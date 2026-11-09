@@ -7,7 +7,7 @@ Un anno fa sulla scrivania è arrivato un mini PC. Niente di speciale: un Ryzen 
 
 C'era anche dell'altro. Dopo anni difficili, sul piano personale e su quello del lavoro, Hazel cercava un posto dove imparare per il gusto di farlo, dove un problema risolto desse soddisfazione e dove le decisioni fossero sue. Il lavoro di tutti i giorni andava stretto. Hazel-Lab è nato anche così: una realtà parallela.
 
-Il primo dubbio pratico era più semplice: *cosa ci metto sopra?* La risposta è arrivata un pezzo alla volta, quasi sempre da un progetto open source trovato su GitHub, con un README da leggere e una comunità a cui chiedere.
+Il primo dubbio pratico era più semplice: *«Cosa ci metto sopra?»* La risposta è arrivata un pezzo alla volta, quasi sempre da un progetto open source trovato su GitHub, con un README da leggere e una comunità a cui chiedere.
 
 ## Le prime lezioni
 

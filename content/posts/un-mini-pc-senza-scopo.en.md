@@ -9,7 +9,7 @@ A year ago a mini PC landed on the desk. Nothing special: an eight-core Ryzen, 3
 
 There was something else too. After a few hard years, personally and at work, Hazel was looking for a place to learn for the joy of it, where solving a problem felt rewarding and where the decisions were Hazel's own. The day job had become too tight a fit. Hazel-Lab was also born this way: a parallel reality.
 
-The first practical question was simpler: *what do I run on it?* The answer came one piece at a time, almost always from an open source project found on GitHub, with a README to read and a community to ask.
+The first practical question was simpler: *"What do I run on it?"* The answer came one piece at a time, almost always from an open source project found on GitHub, with a README to read and a community to ask.
 
 ## The first lessons
 
