@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article>
   <h1>{{ .Title }}</h1>
-  {{ if eq .Section "posts" }}<p class="meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time></p>{{ end }}
+  {{ if eq .Section "posts" }}<p class="meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time> · {{ .ReadingTime }} {{ site.Params.lettura }}</p>{{ end }}
   {{ partial "firma.html" . }}
   {{ .Content }}
   {{ if .Params.tradotto }}<p class="nota">{{ site.Params.traduzione }}</p>{{ end }}

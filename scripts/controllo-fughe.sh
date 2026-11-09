@@ -27,6 +27,7 @@ if [[ $# -gt 0 ]]; then
 else
   mapfile -t file < <(git ls-files)
 fi
+if [[ ${#file[@]} -eq 0 ]]; then echo "Controllo fallito: nessun file da controllare in '${1:-repository}'." >&2; exit 1; fi
 self="scripts/controllo-fughe.sh"
 trovati=0
 for f in "${file[@]}"; do

@@ -19,3 +19,4 @@ footer { margin:3rem 0 2rem; padding-top:1rem; border-top:1px solid var(--line);
 .lupo svg { width:1.7rem; height:2.7rem; color:var(--accent); vertical-align:-.5rem; margin-right:.5rem; }
 .dedica { font-style:italic; }
 .emblema svg { width:9rem; height:9rem; color:var(--accent); display:block; margin:2rem 0 0; }
+.nontrovata { text-align:center; padding:3rem 0; } .nontrovata h1 { font-size:4rem; margin:0; color:var(--accent); }
