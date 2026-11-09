@@ -14,7 +14,9 @@ Hazel lives in Italy and works with technology. A year ago Hazel knew the way ar
 
 Hazel-Lab is also a parallel reality, born after a few hard years: on one side a job short on satisfaction that feels too tight, on the other a lab where Hazel learns, chooses and sees the results of the work.
 
-To give you an idea, a bit like Elliot from *Mr. Robot*: rather solitary, more at ease in front of a terminal than in a crowd, and finding it hard to accept the world as it is. Maybe it is no coincidence that the team is made mostly of agents. At home there are a partner and a dog: the rest of the crew, the part that writes no code but is a reminder that there is a life outside the lab. Three things hold the project together.
+To give you an idea, a bit like Elliot from *Mr. Robot*: rather solitary, more at ease in front of a terminal than in a crowd, and finding it hard to accept the world as it is. Maybe it is no coincidence that the team is made mostly of agents. At home there are a partner and a dog: the rest of the crew, the part that writes no code but is a reminder that there is a life outside the lab.
+
+Three things hold the project together.
 
 - **Open source.** Almost everything running in the lab was discovered on GitHub: Proxmox, Home Assistant, Authentik, Traefik, Forgejo, Vaultwarden, Technitium, n8n, Kopia. Projects built by communities of people, documented in public, that anyone can study. This blog is a way to give something back to that world.
 - **Data privacy.** Passwords, DNS, logins, code, backups: they stay at home, under control, with encrypted copies and an off-site copy on a server of our own. Not out of paranoia, but to know where your data lives and who can read it.

@@ -1,5 +1,5 @@
 <header class="top">
-  <a class="brand" href="{{ site.Home.RelPermalink }}">Hazel-Lab</a>
+  <a class="brand" href="{{ site.Home.RelPermalink }}"><span class="logo" aria-hidden="true">{{ readFile "static/img/logo.svg" | safeHTML }}</span>Hazel-Lab</a>
   <nav>
     {{ range site.Menus.main }}<a href="{{ .URL }}">{{ .Name }}</a>{{ end }}
     {{ range .Translations }}<a class="lang" href="{{ .RelPermalink }}" hreflang="{{ .Language.Lang }}">{{ .Language.Lang | upper }}</a>{{ end }}

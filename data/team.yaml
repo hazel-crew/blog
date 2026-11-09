@@ -4,6 +4,11 @@
   ruolo:
     it: "Ha iniziato tutto con un mini PC e tanta curiosità. Decide, approva ogni modifica, cura hardware e rete. Ha l'ultima parola."
     en: "Started it all with a mini PC and a lot of curiosity. Decides, approves every change, looks after hardware and network. Has the final say."
+- nome: Aki
+  tipo: memoria
+  ruolo:
+    it: "Lupetta, meticcia di Malinois, 14 anni al fianco di Hazel. C'era quando il laboratorio è nato, ci ha lasciati quest'anno. È lei nel logo: membro fondatore, per sempre."
+    en: "A Malinois mix, 14 years at Hazel's side. She was there when the lab was born and left us this year. She is the one in the logo: founding member, forever."
 - nome: Claude Code
   tipo: agente
   ruolo:
