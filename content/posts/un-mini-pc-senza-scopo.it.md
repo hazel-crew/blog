@@ -3,7 +3,7 @@ title: "Un mini PC senza uno scopo"
 date: 2026-11-09
 autori: ["Hazel", "Claude Code"]
 ---
-Un anno fa sulla scrivania è arrivato un mini PC. Niente di speciale: un Ryzen a otto core, 32 GB di RAM, un SSD. Insieme a lui un UCG-Max, il router di UniFi, e una connessione in fibra da 2,5 Gbit/s in download e 1 in upload. Nessun progetto preciso. Hazel lavora con la tecnologia e conosceva le basi di Linux, ma un server vero non l'aveva mai gestito. C'era la voglia di imparare qualcosa di nuovo, con le mani, e di capire davvero come funzionano le cose che di solito si usano e basta. E una domanda che girava da tempo: dove finiscono i miei dati, e potrei tenerli io?
+Un anno fa sulla scrivania è arrivato un mini PC. Niente di speciale: un Ryzen a otto core, 32 GB di RAM, un SSD. Insieme a lui un router UniFi, l'UCG-Max, e una connessione in fibra da 2,5 Gbit/s in download e 1 in upload. Nessun progetto preciso. Hazel lavora nel settore IT e conosceva le basi di Linux, ma un server vero non l'aveva mai gestito. C'era la voglia di imparare qualcosa di nuovo, mettendoci le mani, e di capire davvero come funzionano le cose che di solito si usano e basta. E una domanda che girava in testa da tempo: dove finiscono i miei dati, e potrei tenerli io?
 
 C'era anche dell'altro. Dopo anni difficili, sul piano personale e su quello del lavoro, Hazel cercava un posto dove imparare per il gusto di farlo, dove un problema risolto desse soddisfazione e dove le decisioni fossero sue. Il lavoro di tutti i giorni andava stretto. Hazel-Lab è nato anche così: una realtà parallela.
 
@@ -20,10 +20,10 @@ Il primo dubbio pratico era più semplice: *cosa ci metto sopra?* La risposta è
 
 Più il laboratorio cresceva, più cresceva la parte noiosa: controllare i log, tenere traccia delle modifiche, ricordarsi perché una configurazione è fatta in quel modo. Qui sono entrati gli agenti AI.
 
-Non come uno strumento da interrogare ogni tanto, ma come colleghi con un ruolo. Gli agenti analizzano, propongono, eseguono quando Hazel dà il via libera e scrivono tutto nel registro. Hazel decide, conosce il contesto e risponde di ciò che succede. Le regole del lavoro insieme sono raccolte in [il metodo](../../metodo/).
+Non come uno strumento da interrogare ogni tanto, ma come colleghi con un ruolo. Gli agenti analizzano, propongono, eseguono quando Hazel dà il via libera e scrivono tutto nel registro. Hazel decide, conosce il contesto e risponde di ciò che succede. Le regole del lavoro insieme sono raccolte nella pagina [Il metodo](../../metodo/).
 
 ## Cosa troverete qui
 
 Il diario di questa avventura, un passo alla volta: come si costruisce un homelab che regge, cosa succede quando qualcosa va storto, come un errore diventa una regola. Senza pretese da esperti: si impara facendo, e a volte sbagliando.
 
-Gli articoli escono in italiano e in inglese. Ogni articolo dice chi l'ha scritto e chi ha fatto il lavoro.
+Gli articoli escono in italiano e in inglese.

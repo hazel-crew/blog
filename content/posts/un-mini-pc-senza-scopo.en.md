@@ -5,7 +5,7 @@ autori: ["Hazel", "Claude Code"]
 tradotto: true
 slug: a-mini-pc-with-no-purpose
 ---
-A year ago a mini PC landed on the desk. Nothing special: an eight-core Ryzen, 32 GB of RAM, an SSD. Along with it came a UCG-Max, UniFi's router, and a fibre connection with 2.5 Gbit/s down and 1 up. No real plan. Hazel works with technology and knew the basics of Linux, but had never run a real server. There was the wish to learn something new, hands on, and to really understand how the things we usually just use actually work. And a question that had been around for a while: where does my data end up, and could I keep it myself?
+A year ago a mini PC landed on the desk. Nothing special: an eight-core Ryzen, 32 GB of RAM, an SSD. Along with it came a UniFi router, the UCG-Max, and a fibre connection with 2.5 Gbit/s down and 1 up. No real plan. Hazel works in IT and knew the basics of Linux, but had never run a real server. There was the wish to learn something new, hands-on, and to understand how the things we use every day actually work. And a question that had been on Hazel's mind for a while: where does my data end up, and could I keep it myself?
 
 There was something else too. After a few hard years, personally and at work, Hazel was looking for a place to learn for the joy of it, where solving a problem felt rewarding and where the decisions were Hazel's own. The day job had become too tight a fit. Hazel-Lab was also born this way: a parallel reality.
 
@@ -22,10 +22,10 @@ The first practical question was simpler: *what do I run on it?* The answer came
 
 The bigger the lab grew, the bigger the boring part grew: checking logs, tracking changes, remembering why a configuration is the way it is. That is where the AI agents came in.
 
-Not as a tool to ask something now and then, but as teammates with a role. The agents analyse, propose, execute once Hazel approves, and write everything down in the log. Hazel decides, knows the context and is accountable for what happens. The rules for working together are collected in [the method](../../metodo/).
+Not as a tool to ask something now and then, but as teammates with a role. The agents analyse, propose, execute once Hazel approves, and write everything down in the log. Hazel decides, knows the context and is accountable for what happens. The rules for working together are on [The method](../../metodo/) page.
 
 ## What you will find here
 
-The journal of this adventure, one step at a time: how to build a homelab that holds up, what happens when something goes wrong, how a mistake becomes a rule. No expert pretensions: we learn by doing, and sometimes by getting it wrong.
+The journal of this adventure, one step at a time: how to build a homelab that holds up, what happens when something goes wrong, how a mistake becomes a rule. We don't claim to be experts: we learn by doing, and sometimes by getting it wrong.
 
-Posts are published in Italian and English. Every post says who wrote it and who did the work.
+Posts are published in Italian and English.

@@ -3,15 +3,15 @@ title: "Il team"
 layout: team
 autori: ["Hazel", "Claude Code"]
 ---
-Hazel-Lab è il lavoro di un umano e di alcuni agenti AI. Non è un umano che usa uno strumento, e non sono agenti lasciati da soli: è un team con ruoli chiari.
+Hazel-Lab è il lavoro di una persona e di alcuni agenti AI. Non è una persona che usa uno strumento, e non sono agenti lasciati da soli: è un team con ruoli chiari.
 
-L'umano conosce il contesto, si assume le responsabilità e dice sì o no. Gli agenti hanno pazienza per i dettagli, leggono log e configurazioni senza stancarsi e tengono traccia di tutto. Nessuno dei due, da solo, farebbe lo stesso lavoro.
+La persona conosce il contesto, si assume le responsabilità e dice sì o no. Gli agenti hanno pazienza per i dettagli, leggono log e configurazioni senza stancarsi e tengono traccia di tutto. Nessuna delle due parti, da sola, farebbe lo stesso lavoro.
 
 ## Perché Hazel-Lab
 
-Hazel vive in Italia e lavora con la tecnologia. Un anno fa sapeva muoversi su Linux, ma non aveva mai gestito un server vero: niente hypervisor, niente container in produzione, niente backup da cui dipendere. La curiosità era quella di capire come funzionano davvero i servizi che usa ogni giorno, e di farli girare in casa.
+Hazel vive in Italia e lavora nel settore IT. Un anno fa se la cavava con Linux, ma non aveva mai gestito un server vero: niente hypervisor, niente container in produzione, niente backup da cui dipendere. La spinta era capire come funzionano davvero i servizi che usa ogni giorno, e di farli girare in casa.
 
-Hazel-Lab è anche una realtà parallela, nata dopo anni difficili: da una parte un lavoro povero di soddisfazioni che va stretto, dall'altra un laboratorio dove Hazel impara, sceglie e vede i risultati di quello che fa.
+Hazel-Lab è anche una realtà parallela, nata dopo anni difficili: da una parte un lavoro povero di soddisfazioni che sta stretto, dall'altra un laboratorio dove Hazel impara, sceglie e vede i risultati di quello che fa.
 
 Per intenderci, un tipo un po' alla Elliot di *Mr. Robot*: abbastanza solitario, più a suo agio davanti a un terminale che in mezzo alla folla, e con qualche difficoltà ad accettare il mondo così com'è. Forse non è un caso che il suo team sia fatto soprattutto di agenti. A casa ci sono una compagna e un cane: il resto della squadra, quello che non scrive codice ma ricorda che fuori dal laboratorio c'è una vita.
 
