@@ -1,6 +1,6 @@
 ---
 title: "A mini PC with no purpose"
-date: 2026-11-09
+date: 2026-11-09T12:00:00+01:00
 autori: ["Hazel", "Claude Code"]
 tradotto: true
 slug: a-mini-pc-with-no-purpose

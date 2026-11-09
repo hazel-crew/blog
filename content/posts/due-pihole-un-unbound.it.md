@@ -1,6 +1,6 @@
 ---
 title: "Due Pi-hole, un Unbound e un indirizzo che spariva"
-date: 2026-11-09
+date: 2026-11-09T15:00:00+01:00
 autori: ["Hazel", "Claude Code"]
 ---
 Il primo servizio vero di Hazel-Lab è stato il DNS. Non per caso: se la domanda era *«Dove finiscono i miei dati?»*, il DNS è il primo posto dove guardare. Ogni sito aperto, ogni app che si collega, ogni dispositivo che "chiama casa" passa prima da lì. Chi risponde alle richieste DNS sa molto di quello che succede in una rete.

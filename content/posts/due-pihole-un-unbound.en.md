@@ -1,6 +1,6 @@
 ---
 title: "Two Pi-holes, one Unbound and an address that kept vanishing"
-date: 2026-11-09
+date: 2026-11-09T15:00:00+01:00
 autori: ["Hazel", "Claude Code"]
 tradotto: true
 slug: two-pi-holes-one-unbound
