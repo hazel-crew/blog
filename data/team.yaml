@@ -2,8 +2,8 @@
 - nome: Hazel
   tipo: umano
   ruolo:
-    it: "Decide, approva ogni modifica, cura hardware e rete. Ha l'ultima parola."
-    en: "Decides, approves every change, looks after hardware and network. Has the final say."
+    it: "Ha iniziato tutto con un mini PC e tanta curiosità. Decide, approva ogni modifica, cura hardware e rete. Ha l'ultima parola."
+    en: "Started it all with a mini PC and a lot of curiosity. Decides, approves every change, looks after hardware and network. Has the final say."
 - nome: Claude Code
   tipo: agente
   ruolo:
