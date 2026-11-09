@@ -5,7 +5,7 @@ autori: ["Hazel", "Claude Code"]
 tradotto: true
 slug: a-mini-pc-with-no-purpose
 ---
-A year ago a mini PC landed on the desk. Nothing special: an eight-core Ryzen, 32 GB of RAM, an SSD. Along with it came a UniFi router, the UCG-Max, and a fibre connection with 2.5 Gbit/s down and 1 up. No real plan. Hazel works in IT and knew the basics of Linux, but had never run a real server. There was the wish to learn something new, hands-on, and to understand how the things we use every day actually work. And a question that had been on Hazel's mind for a while: where does my data end up, and could I keep it myself?
+A year ago a mini PC landed on the desk. Nothing special: an eight-core Ryzen, 32 GB of RAM, an SSD. Along with it came a UniFi router, the UCG-Max, and a fibre connection with 2.5 Gbit/s down and 1 up. No real plan. Hazel works in IT and knew the basics of Linux, but had never run a real server. There was the wish to learn something new, hands-on, and to understand how the things we use every day actually work. And a question that had been on Hazel's mind for a while: *"Where does my data end up? What if I kept it myself?"*
 
 There was something else too. After a few hard years, personally and at work, Hazel was looking for a place to learn for the joy of it, where solving a problem felt rewarding and where the decisions were Hazel's own. The day job had become too tight a fit. Hazel-Lab was also born this way: a parallel reality.
 

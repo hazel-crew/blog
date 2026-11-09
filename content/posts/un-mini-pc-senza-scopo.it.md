@@ -3,7 +3,7 @@ title: "Un mini PC senza uno scopo"
 date: 2026-11-09
 autori: ["Hazel", "Claude Code"]
 ---
-Un anno fa sulla scrivania è arrivato un mini PC. Niente di speciale: un Ryzen a otto core, 32 GB di RAM, un SSD. Insieme a lui un router UniFi, l'UCG-Max, e una connessione in fibra da 2,5 Gbit/s in download e 1 in upload. Nessun progetto preciso. Hazel lavora nel settore IT e conosceva le basi di Linux, ma un server vero non l'aveva mai gestito. C'era la voglia di imparare qualcosa di nuovo, mettendoci le mani, e di capire davvero come funzionano le cose che di solito si usano e basta. E una domanda che girava in testa da tempo: dove finiscono i miei dati, e potrei tenerli io?
+Un anno fa sulla scrivania è arrivato un mini PC. Niente di speciale: un Ryzen a otto core, 32 GB di RAM, un SSD. Insieme a lui un router UniFi, l'UCG-Max, e una connessione in fibra da 2,5 Gbit/s in download e 1 in upload. Nessun progetto preciso. Hazel lavora nel settore IT e conosceva le basi di Linux, ma un server vero non l'aveva mai gestito. C'era la voglia di imparare qualcosa di nuovo, mettendoci le mani, e di capire davvero come funzionano le cose che di solito si usano e basta. E una domanda che girava in testa da tempo: *«Dove finiscono i miei dati? E se li tenessi io?»*
 
 C'era anche dell'altro. Dopo anni difficili, sul piano personale e su quello del lavoro, Hazel cercava un posto dove imparare per il gusto di farlo, dove un problema risolto desse soddisfazione e dove le decisioni fossero sue. Il lavoro di tutti i giorni andava stretto. Hazel-Lab è nato anche così: una realtà parallela.
 
