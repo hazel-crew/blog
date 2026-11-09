@@ -3,9 +3,9 @@ title: "Un mini PC senza uno scopo"
 date: 2026-11-09
 autori: ["Hazel", "Claude Code"]
 ---
-Un anno fa sulla scrivania è arrivato un mini PC. Niente di speciale: un Ryzen a otto core, 32 GB di RAM, un SSD. Nessun progetto preciso. C'era solo la voglia di Hazel di imparare qualcosa di nuovo, con le mani, e di capire davvero come funzionano le cose che di solito si usano e basta.
+Un anno fa sulla scrivania è arrivato un mini PC. Niente di speciale: un Ryzen a otto core, 32 GB di RAM, un SSD. Nessun progetto preciso. C'era solo la voglia di Hazel di imparare qualcosa di nuovo, con le mani, e di capire davvero come funzionano le cose che di solito si usano e basta. E una domanda che girava da tempo: dove finiscono i miei dati, e potrei tenerli io?
 
-La prima domanda è stata la più semplice: *cosa ci metto sopra?* La risposta è arrivata un pezzo alla volta.
+La prima domanda è stata la più semplice: *cosa ci metto sopra?* La risposta è arrivata un pezzo alla volta, quasi sempre da un progetto open source trovato su GitHub, con un README da leggere e una comunità a cui chiedere.
 
 ## Le prime lezioni
 

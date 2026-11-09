@@ -5,9 +5,9 @@ autori: ["Hazel", "Claude Code"]
 tradotto: true
 slug: a-mini-pc-with-no-purpose
 ---
-A year ago a mini PC landed on the desk. Nothing special: an eight-core Ryzen, 32 GB of RAM, an SSD. No real plan. Just Hazel's wish to learn something new, hands on, and to really understand how the things we usually just use actually work.
+A year ago a mini PC landed on the desk. Nothing special: an eight-core Ryzen, 32 GB of RAM, an SSD. No real plan. Just Hazel's wish to learn something new, hands on, and to really understand how the things we usually just use actually work. And a question that had been around for a while: where does my data end up, and could I keep it myself?
 
-The first question was the simplest one: *what do I run on it?* The answer came one piece at a time.
+The first question was the simplest one: *what do I run on it?* The answer came one piece at a time, almost always from an open source project found on GitHub, with a README to read and a community to ask.
 
 ## The first lessons
 
