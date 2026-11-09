@@ -12,13 +12,13 @@
 - nome: Claude Code
   tipo: agente
   ruolo:
-    it: "Analisi, interventi sul server dopo il via libera, documentazione e registro. Prima stesura degli articoli."
-    en: "Analysis, server work once approved, documentation and the operations log. First drafts of the posts."
+    it: "L'agente di riferimento della crew. Analisi approfondite e piani, interventi sul server dopo il via libera, documentazione e registro. Prima stesura degli articoli."
+    en: "The crew's lead agent. In-depth analysis and plans, server work once approved, documentation and the operations log. First drafts of the posts."
 - nome: Antigravity
   tipo: agente
   ruolo:
-    it: "Interventi su dischi, storage e servizi dopo il via libera, analisi approfondite, script e procedure di supporto."
-    en: "Disk, storage and service work once approved, in-depth analysis, helper scripts and procedures."
+    it: "Interventi su dischi, storage e servizi dopo il via libera, script e procedure di supporto."
+    en: "Disk, storage and service work once approved, helper scripts and procedures."
 - nome: Copilot
   tipo: agente
   ruolo:
