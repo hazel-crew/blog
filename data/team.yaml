@@ -14,13 +14,13 @@
   ruolo:
     it: "Analisi, interventi sul server dopo il via libera, documentazione e registro. Prima stesura degli articoli."
     en: "Analysis, server work once approved, documentation and the operations log. First drafts of the posts."
-- nome: Codex
+- nome: Antigravity
   tipo: agente
   ruolo:
-    it: "Revisioni e secondo parere sul codice e sugli script."
-    en: "Reviews and second opinions on code and scripts."
+    it: "Interventi su dischi, storage e servizi dopo il via libera, analisi approfondite, script e procedure di supporto."
+    en: "Disk, storage and service work once approved, in-depth analysis, helper scripts and procedures."
 - nome: Copilot
   tipo: agente
   ruolo:
-    it: "Aiuto nell'editor durante le modifiche ai file."
-    en: "In-editor help while editing files."
+    it: "Revisioni dei piani e secondo parere, modifiche nell'editor, interventi mirati dopo il via libera."
+    en: "Plan reviews and second opinions, in-editor changes, targeted work once approved."
